@@ -1,3 +1,3 @@
 # basic-length-unit-converter
 
-Makes the conversion between different SI and Imperial length units
+Built on C# and Visual Studio 2013, makes the conversion between different SI and Imperial length units.
